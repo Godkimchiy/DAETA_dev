@@ -34,116 +34,116 @@
 ### 로그인
 - *LoginActivity.class*
 - 책임자 : 재준
-![login](/img/UIdesign/login.png)
+<img src="/img/UIdesign/login.png" width="30%" height="30%"></img>
 
 ### 메인페이지
 - *MainActivity.class*
 - 책임자 : 재준
-![main](/img/UIdesign/main.jpg)
+<img src="/img/UIdesign/main.jpg" width="40%" height="40%"></img>
 
 ### 설정
 - *SettingActivity.class*
 - 책임자 : 동규
-![setting](/img/UIdesign/setting.png)
+<img src="/img/UIdesign/setting.png" width="30%" height="30%"></img>
 
 ### 알림설정
 - *NotificationSettingActivity.class*
 - 책임자 : 동규
-![notification_setting](/img/UIdesign/notification_setting.png)
+<img src="/img/UIdesign/notification_setting.png" width="30%" height="30%"></img>
 
 ### 기타설정
 - *OtherSettingActivity.class*
 - 책임자 : 동규
-![other_setting](/img/UIdesign/other_setting.png)
+<img src="/img/UIdesign/other_setting.png" width="30%" height="30%"></img>
 
 ### 문의하기
 - *InquireActivity.class*
 - 책임자 : 동규
-![inquire](/img/UIdesign/inquire.png)
+<img src="/img/UIdesign/inquire.png" width="30%" height="30%"></img>
 
 ### 공지사항
 - *NoticeActivity.class*
 - 책임자 : 동규
-![notice](/img/UIdesign/notice.png)
+<img src="/img/UIdesign/notice.png" width="30%" height="30%"></img>
 
 ### 보기방식변경
 - *Dialog in SettingActivity.class*
 - 책임자 : 재준
-![view_style](/img/UIdesign/view_style.png)
+<img src="/img/UIdesign/view_style.png" width="30%" height="30%"></img>
 
 ### 알림
 - *NotificationActivity.class*
 - 책임자 : 재준
-![notification1](/img/UIdesign/notification1.png)
-![notification2](/img/UIdesign/notification2.png)
+<img src="/img/UIdesign/notification1.png" width="30%" height="30%"></img>
+<img src="/img/UIdesign/notification2.png" width="30%" height="30%"></img>
 
 ### 인재정보
 - *EmployeeFragment.class*
 - 책임자 : 대권
-![employee](/img/UIdesign/employee.png)
+<img src="/img/UIdesign/employee.png" width="30%" height="30%"></img>
 
 ### 회원정보
 - *UserProfileActivity.class*
 - 책임자 : 대권
-![user_profile](/img/UIdesign/user_profile.jpg)
+<img src="/img/UIdesign/user_profile.jpg" width="30%" height="30%"></img>
 
 ### 신고
 - *ReportActivity.class*
 - 책임자 : 대권
-![report](/img/UIdesign/report.jpg)
+<img src="/img/UIdesign/report.jpg" width="30%" height="30%"></img>
 
 ### 완료
 - *Custom Dialog in ReportActivity.class*
 - 책임자 : 대권
-![report_ok](/img/UIdesign/report_ok.jpg)
+<img src="/img/UIdesign/report_ok.jpg" width="30%" height="30%"></img>
 
 ### 신청
 - *Custom Dialog in ApplyActivity.class*
 - 책임자 : 치윤
-![apply_ok](/img/UIdesign/apply_ok.jpg)
+<img src="/img/UIdesign/apply_ok.jpg" width="30%" height="30%"></img>
 
 ### 댓글
 - *UserCommentActivity.class*
 - 책임자 : 치윤
-![user_comment](/img/UIdesign/user_comment.jpg)
+<img src="/img/UIdesign/user_comment.jpg" width="30%" height="30%"></img>
 
 ### 구인공고
 - *HireFragment.class*
 - 책임자 : 재언
-![hire](/img/UIdesign/hire.jpg)
+<img src="/img/UIdesign/hire.jpg" width="30%" height="30%"></img>
 
 ### 작성페이지
 - *PostHireActivity.class*
 - 책임자 : 재언
-![post_hire](/img/UIdesign/post_hire.jpg)
+<img src="/img/UIdesign/post_hire.jpg" width="30%" height="30%"></img>
 
 ### 신청
 - *Custom Dialog in ApplyActivity.class*
 - 책임자 : 치윤
-![apply_ok](/img/UIdesign/apply_ok.jpg)
+<img src="/img/UIdesign/apply_ok.jpg" width="30%" height="30%"></img>
 
 ### 댓글
 - *HireCommentActivity.class*
 - 책임자 : 치윤
-![user_comment](/img/UIdesign/user_comment.jpg)
+<img src="/img/UIdesign/user_comment.jpg" width="30%" height="30%"></img>
 
 ### 검색
 - *SearchFragment.class*
 - 책임자 : 유정
-![search](/img/UIdesign/search.jpg)
+<img src="/img/UIdesign/search.jpg" width="30%" height="30%"></img>
 
 ### 근무시간설정
 - *SettingDateTimeActivity.class*
 - 책임자 : 재준
-![setting_date_time](/img/UIdesign/setting_date_time.png)
+<img src="/img/UIdesign/setting_date_time.png" width="30%" height="30%"></img>
 
 ### 내정보
 - *MyProfileFragment.class*
 - 책임자 : 유정
-![myprofile](/img/UIdesign/myprofile.jpg)
-![myprofile2](/img/UIdesign/myprofile2.jpg)
+<img src="/img/UIdesign/myprofile.jpg" width="30%" height="30%"></img>
+<img src="/img/UIdesign/myprofile2.jpg" width="30%" height="30%"></img>
 
 ### 프로필작성
 - *EditMyProfileActivity.class*
 - 책임자 : 유정
-![edit_profile](/img/UIdesign/edit_profile.jpg)
+<img src="/img/UIdesign/edit_profile.jpg" width="30%" height="30%"></img>
